@@ -5,6 +5,6 @@ package com.example.lanfro.martify;
  */
 public class Config {
 
-    public static final String CLIENT_ID = "a4b62f03d1336847135ac374569ec882";
+    public static final String CLIENT_ID = "<ENTER YOUR OWN CLIEND_ID>";
     public static final String API_URL = "https://api.soundcloud.com";
 }
